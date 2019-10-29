@@ -1,0 +1,28 @@
+---
+title: "Alexis V Colangelo"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+editor_options: 
+  chunk_output_type: console
+---
+
+## Welcome!
+
+I'm currently a second-year MPH Epidemiology student with a certificate in Applied Biostatistics at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/). I created this website for the [Data Science I](https://p8105.com/) course. 
+
+You can learn about me [here](about.html).
+
+# let's add a link
+
+
+I often use [google](https://www.google.com) to do **data science**. 
+
+
+## let's add an image
+
+![](images/hat.jpg)
+
+
