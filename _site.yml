@@ -1,20 +1,16 @@
-name: "YML"
+name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
   right:
     - text: "About"
       href: about.html
-    - text: Examples
-      menu:
-      - text: "Plotly"
-        href: plotly.html
-      - text: "Dashboard"
-        href: dashboard.html
     - icon: fa-envelope fa-lg
-      href: mailto:<alexisvcolangelo@gmail.com>
+      href: mailto:<alexis.colangelo@columbia.edu>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/alexisvcolangelo/
     - icon: fa-github fa-lg
-      href: http://github.com/avcolangelo/
+      href: http://github.com/<avcolangelo>/
 output:
   html_document:
-    theme: flatly
+    theme: cerulean 
